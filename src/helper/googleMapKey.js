@@ -1,0 +1,1 @@
+export const GOOGLE_MAP_KEY = "YOUR_PASTE_GOOGLE_API_KRY"
